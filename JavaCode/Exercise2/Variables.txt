@@ -1,0 +1,2 @@
+The variable x conatains 10
+The value 400 is stored in the variable y.
